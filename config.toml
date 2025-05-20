@@ -1,6 +1,6 @@
 baseURL               = "https://260826.xyz/"
 languageCode          = "en-US"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "WebStack-Hugo Anno"
 theme                 = "WebStack-Hugo"
 defaultContentLanguage = "en"
 preserveTaxonomyNames = true
@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
     author        = "shenweiyan"
     description   = "Webstack-Hugo Website navigation | Hugo 主题 BY Bio IT 爱好者"
     upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
-    about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
+    about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"About Us"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "Hugo 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
@@ -48,4 +48,4 @@ defaultContentLanguageInSubdir = false
     unsafe = true
 
 [params.footer]
-    copyright = '<br/>&copy; 2024 - {year} By Anno rights reserved'
+    copyright = '<br/>&copy; 2024 - {year} By Anno All rights reserved'
