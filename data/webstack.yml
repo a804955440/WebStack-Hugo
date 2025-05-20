@@ -42,7 +42,7 @@
       description: 微信公众号：BioIT 爱好者！
 
 
-- taxonomy: Scientific research office
+- taxonomy: Office supplies
   icon: fas fa-flask fa-lg
   list:
     - term: Biological information
@@ -158,10 +158,10 @@
           description: 台服 AVA 战地之王。
    
       
-- taxonomy: Material resources
+- taxonomy: Resources
   icon: far fa-folder-open fa-lg
   list:
-    - term: Cloud disk resources
+    - term: Cloud resources
       links:
         - title: 百度网盘
           logo: 百度网盘.jpg
@@ -369,7 +369,7 @@
           description: Abstract Fonts (13,866 free fonts).      
       
 
-- taxonomy: Development and design
+- taxonomy: Development
   icon: fas fa-tools fa-lg
   list: 
     - term: Graphic creativity
