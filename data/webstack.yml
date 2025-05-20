@@ -549,7 +549,7 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: Information learning
+- taxonomy: Information
   icon: fas fa-pencil-alt fa-lg
   list: 
     - term: Information books
