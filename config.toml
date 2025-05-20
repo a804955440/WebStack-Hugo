@@ -2,10 +2,12 @@ baseURL               = "https://260826.xyz/"
 languageCode          = "en-US"
 title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
+defaultContentLanguage = "en"
 preserveTaxonomyNames = true
 disablePathToLower    = true
-hasCJKLanguage        = true
+hasCJKLanguage        = false
 publishDir            = "public"				# 站点静态文件保存目录
+defaultContentLanguageInSubdir = false
 
 
 [params]
