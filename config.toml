@@ -1,5 +1,5 @@
 baseURL               = "https://260826.xyz/"
-languageCode          = "zh-CN"
+languageCode          = "en-US"
 title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
