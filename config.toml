@@ -1,6 +1,6 @@
 baseURL               = "https://260826.xyz/"
 languageCode          = "en-US"
-title                 = "WebStack-Hugo Anno"
+title                 = "Welcome to Anno"
 theme                 = "WebStack-Hugo"
 defaultContentLanguage = "en"
 preserveTaxonomyNames = true
