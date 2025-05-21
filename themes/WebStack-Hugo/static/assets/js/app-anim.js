@@ -228,9 +228,9 @@
         }
         else{
             if($(".switch-dark-mode").attr("data-original-title"))
-                $(".switch-dark-mode").attr("data-original-title","夜间模式");
+                $(".switch-dark-mode").attr("data-original-title","Dark mode");
             else
-                $(".switch-dark-mode").attr("title","夜间模式");
+                $(".switch-dark-mode").attr("title","Dark mode");
             $(".mode-ico").removeClass("icon-light");
             $(".mode-ico").addClass("icon-night");
         }
