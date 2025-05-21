@@ -220,9 +220,9 @@
     function switch_mode(){
         if($('body').hasClass('io-black-mode')){
             if($(".switch-dark-mode").attr("data-original-title"))
-                $(".switch-dark-mode").attr("data-original-title","日间模式");
+                $(".switch-dark-mode").attr("data-original-title","Light mode");
             else
-                $(".switch-dark-mode").attr("title","日间模式");
+                $(".switch-dark-mode").attr("title","Light mode");
             $(".mode-ico").removeClass("icon-night");
             $(".mode-ico").addClass("icon-light");
         }
